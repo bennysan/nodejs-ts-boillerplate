@@ -1,7 +1,7 @@
 {
-  "name": "your-app-name",
+  "name": "api_gennevilliers",
   "version": "1.0.0",
-  "description": "Your app description",
+  "description": "description",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
@@ -11,8 +11,7 @@
     "format": "prettier --write \"src/**/*.ts\"",
     "test": "jest"
   },
-  "author": "Your name",
-  "license": "MIT",
+  "author": "Tremplin numerique",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.6",
